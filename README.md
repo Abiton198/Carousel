@@ -1,2 +1,2 @@
 # Carousel
-Picture selection and slide movement using CSS
+Picture selection and slide movement using JS
